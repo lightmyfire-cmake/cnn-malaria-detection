@@ -147,8 +147,6 @@ st.write("""
 1. **Select an image** from the sidebar or use the **random image button**.
 2. Click **'Detect Malaria'** to let the AI analyze the cell.
 3. View the **prediction results** and **Saliency Map** to see how the AI made its decision.
-
-The goal is to help in **automated malaria detection**, providing insights for researchers and medical professionals.
 """)
 
 
