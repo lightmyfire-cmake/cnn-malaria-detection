@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+numpy
+os
+matplotlib
+opencv
+pillow
+random
