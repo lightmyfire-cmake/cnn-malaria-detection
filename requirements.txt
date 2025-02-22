@@ -1,8 +1,7 @@
 streamlit
 tensorflow
 numpy
-os
 matplotlib
-opencv
+opencv-python
 pillow
-random
+pandas
